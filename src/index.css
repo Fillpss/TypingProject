@@ -16,9 +16,8 @@ body {
     align-items: center;
     font-family: sans-serif, arial;
 }
-
 .container {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     text-align: center;
     display: flex;
